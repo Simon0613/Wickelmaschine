@@ -7,7 +7,7 @@ Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) herge
 
 ![Prototyp](https://github.com/Simon0613/Winding-Machine/assets/149043603/dafd721c-6806-4b19-a8d1-21fb84db15fe)
 
-
+Die Dimensionen der Rohre können nach persönlichen Anforderungen gestalltet werden. Die Maschine kann Rohre mit einen Durchmesser von 15-55 mm herstellen. Die Länge der Rohre ist beliebig einstellbar, nur die Wickelmaschine muss im vorhinein auf die gewünschten Rohrlängen passend angefertigt sein.
 
 ![3RohreUnterschiedliche Teilung](https://github.com/Simon0613/Winding-Machine/assets/149043603/0af7add4-4a20-4e76-a316-02c705d3e2a4)
 ![Nahaufnahme](https://github.com/Simon0613/Winding-Machine/assets/149043603/f596b2fa-aa4a-4fbd-bd2a-50b659092b6b)
