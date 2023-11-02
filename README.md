@@ -1,6 +1,6 @@
 # Winding-Machine
 
-Mit dieser Wickelmaschine können Faserverstärkte Rohre z.B. (CFK o. GFK) hergestellt werden. Die Abmessungen der Rohre können nach individuellen Wünschen gestaltet werden und können für u.a. für Sport und Campingequipment verwendet werden. 
+Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) hergestellt werden. Die Abmessungen der Rohre können nach individuellen Wünschen gestaltet werden und können für u.a. für Sport und Campingequipment verwendet werden. 
 
 ![Abbildung_Wickelmaschine CAD ISO](https://github.com/Simon0613/Winding-Machine/assets/149043603/1bb1f869-ec6b-41b7-b466-d45853eee0cf)
 
