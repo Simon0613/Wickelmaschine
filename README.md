@@ -4,6 +4,7 @@ Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) herge
 
 ![Abbildung_Wickelmaschine](https://github.com/Simon0613/Winding-Machine/assets/149043603/b8d30b12-addc-4196-8a75-f23ecd60cd13)
 
+Die Wickelmaschine kann mit einfachen Fertigungsverfahren hergestellt werden. Der größte Teil der Bauteile kann mit einem FDM-3D-Drucker angefertigt werden. Weiterhin werden Normteile wie Schrauben, Lager, Einschmelzmuttern und Federn verwendet. Für den Antrieb der Achsen werden Komponenten verwendet die sich in vielen 3D-Druckern wiederfinden: Schrittmotoren, GT2- Riemen und Riemenscheiben, Arduino Uno, CNC-Shield usw.  Der Rest besteht aus Halbzeugen wie Rohren und Flachprofile, die zugesägt, gebohrt und ein wenig gefeilt werden müssen. 
 
 ![Prototyp](https://github.com/Simon0613/Winding-Machine/assets/149043603/dafd721c-6806-4b19-a8d1-21fb84db15fe)
 
