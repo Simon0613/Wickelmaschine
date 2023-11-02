@@ -6,10 +6,10 @@ Mit dieser Wickelmaschine können Faserverstärkte Rohre z.B. (CFK o. GFK) herge
 
 ### Folgendes Werkzeug wird für den Bau der Anlage benötigt:
 
--Bohrmaschine
--Werkzeug zum Anzeichnen der Bohrungen
--Flachfeile
--3,3 mm Bohrer
+- Bohrmaschine
+- Werkzeug zum Anzeichnen der Bohrungen
+- Flachfeile
+- 3,3 mm Bohrer
 4,5 mm Bohrer
 M4 Gewindeschneider
 Kegelsenker
