@@ -19,4 +19,3 @@ Mit dieser Wickelmaschine können Faserverstärkte Rohre z.B. (CFK o. GFK) herge
 - Säge
 - Reiniger
 - Innensechskantschlüsselsatz
-
