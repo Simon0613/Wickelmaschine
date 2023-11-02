@@ -10,13 +10,13 @@ Mit dieser Wickelmaschine können Faserverstärkte Rohre z.B. (CFK o. GFK) herge
 - Werkzeug zum Anzeichnen der Bohrungen
 - Flachfeile
 - 3,3 mm Bohrer
-4,5 mm Bohrer
-M4 Gewindeschneider
-Kegelsenker
-Stirnsenker für M4 Zylinderschrauben
-Lötkolben
-Maßband
-Säge
-Reiniger
-Innensechskantschlüsselsatz
+- 4,5 mm Bohrer
+- M4 Gewindeschneider
+- Kegelsenker
+- Stirnsenker für M4 Zylinderschrauben
+- Lötkolben
+- Maßband
+- Säge
+- Reiniger
+- Innensechskantschlüsselsatz
 
