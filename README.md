@@ -5,7 +5,8 @@ Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) herge
 ![Abbildung_Wickelmaschine](https://github.com/Simon0613/Winding-Machine/assets/149043603/b8d30b12-addc-4196-8a75-f23ecd60cd13)
 
 
-![Erster Prototyp](https://github.com/Simon0613/Winding-Machine/assets/149043603/2c924769-b581-4e52-a0e4-9fbd24e7376b)
+![Prototyp](https://github.com/Simon0613/Winding-Machine/assets/149043603/dafd721c-6806-4b19-a8d1-21fb84db15fe)
+
 
 
 ![3RohreUnterschiedliche Teilung](https://github.com/Simon0613/Winding-Machine/assets/149043603/0af7add4-4a20-4e76-a316-02c705d3e2a4)
