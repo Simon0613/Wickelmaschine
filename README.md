@@ -2,7 +2,8 @@
 
 Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) hergestellt werden. Die Abmessungen der Rohre können nach individuellen Wünschen gestaltet werden und können für u.a. für Sport und Campingequipment verwendet werden. 
 
-![Abbildung_Wickelmaschine CAD ISO](https://github.com/Simon0613/Winding-Machine/assets/149043603/1bb1f869-ec6b-41b7-b466-d45853eee0cf)
+![Abbildung_Wickelmaschine](https://github.com/Simon0613/Winding-Machine/assets/149043603/b8d30b12-addc-4196-8a75-f23ecd60cd13)
+
 
 ![Erster Prototyp](https://github.com/Simon0613/Winding-Machine/assets/149043603/2c924769-b581-4e52-a0e4-9fbd24e7376b)
 
