@@ -63,3 +63,11 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 22. Den Arduino UNO mit Strom versorgen und das USB-B Kabel an einen Computer anschließen.
 23. Estlcam auf einem Computer installieren. Anschließend können folgende Einstellungen übernommen werden.
 ![grafik](https://github.com/Simon0613/Winding-Machine/assets/149043603/f818d086-0682-4cda-938c-4176a4118f57)
+
+Die Wicklung der Rohre erfolgt in folgender Reihenfolge. Grundsätzlich kann sich an die folgende Vorgehensweise gehalten werden:
+
+![grafik](https://github.com/Simon0613/Winding-Machine/assets/149043603/25ab0d49-9c42-49ad-8679-5bfe29fae374)
+Im ersten Schritt werden vorbereitende Maßnahmen durchgeführt. Dazu gehört den Kern reinigen und das Material auf den B09_Materialspeicher aufzuwickeln. Die Position der Y-Achse wird ausgerichtet, indem T022_Grundplatte und T028_Schwenkplatte parallel zueinander ausgerichtet werden. Die Z-Achse kann auf 0 gesetzt werden. Die X-Achse kann an gewünschter Position auf 0 gesetzt werden, jedoch sollte auf die ausreichende Länge geachtet werden.
+Anschließend wird das Material über die T050_Umlenkrolle gelegt und durch die T039_Materialzuführ geführt. Danach wird das Material unter die Andrückrolle geführt und min. zweimal um den Kern gewickelt. Das Ende wird durch die B02_Tapeklemme festgeklemmt. Jetzt kann das Programm in Estlcam hochgela-den werden. Zuerst wird der Heißluftföhn eingeschaltet und für ca. 30 s angelas-sen. Nachdem die Vorheizzeit vorüber ist, wird das Programm gestartet. Wenn das Programm durchgelaufen ist, kann der Heißluftföhn ausgeschaltet werden und das Material wird direkt am Kern durchtrennt. Sobald der Kern abgekühlt ist, kann die-ser aus der Anlage entfernt werden. Danach kann das fertige Rohr vom Kern ab-gezogen werden.
+
+
