@@ -4,7 +4,8 @@ Die Entwicklung und Konstruktion, sowie die Herstellung des Prototyps erfolgte i
 
 Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) hergestellt werden. Die Abmessungen der Rohre können nach individuellen Wünschen gestaltet werden und können u.a. für Sport und Campingequipment verwendet werden. Die Maschine arbeitet nach dem Tapelege- oder Tapewickelverfahren, bei dem unidirektional verstärkte Kunststofftapes um den Kern gewickelt und durch eine Wärmequelle mit den unteren Schichten verbunden werden.
 
-![Abbildung_Wickelmaschine](https://github.com/Simon0613/Wickelmaschine/assets/149043603/d794697f-74df-45c1-b475-e81aaf6199f9)
+![Wickelmaschine](https://github.com/Simon0613/Wickelmaschine/assets/149043603/025445cb-805b-4898-ba74-c6d502e7f791)
+
 
 
 
