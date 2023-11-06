@@ -4,7 +4,8 @@ Die Entwicklung und Konstruktion, sowie die Herstellung des Prototyps erfolgte i
 
 Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) hergestellt werden. Die Abmessungen der Rohre können nach individuellen Wünschen gestaltet werden und können u.a. für Sport und Campingequipment verwendet werden. Die Maschine arbeitet nach dem Tapelege- oder Tapewickelverfahren, bei dem unidirektional verstärkte Kunststofftapes um den Kern gewickelt und durch eine Wärmequelle mit den unteren Schichten verbunden werden.
 
-![Abbildung_Wickelmaschine](https://github.com/Simon0613/Winding-Machine/assets/149043603/b8d30b12-addc-4196-8a75-f23ecd60cd13)
+![Abbildung_Wickelmaschine2](https://github.com/Simon0613/Wickelmaschine/assets/149043603/282e01c0-7117-422d-a13d-772c3a224236)
+
 
 Die Wickelmaschine kann mit einfachen Fertigungsverfahren hergestellt werden. Der größte Teil der Bauteile kann mit einem FDM-3D-Drucker angefertigt werden. Weiterhin werden Normteile wie Schrauben, Lager, Einschmelzmuttern und Federn verwendet. Für den Antrieb der Achsen werden Komponenten verwendet die sich in vielen 3D-Druckern wiederfinden: Schrittmotoren, GT2- Riemen und Riemenscheiben, Arduino Uno, CNC-Shield usw.  Der Rest besteht aus Halbzeugen wie Rohren und Flachprofile, die zugesägt, gebohrt und ein wenig gefeilt werden müssen. 
 
