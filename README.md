@@ -1,6 +1,6 @@
 # Wickelmaschine
 
-Die Entwicklung und Konstruktion, sowie die Herstellung des Prototyps erfolgte im Rahnen einer Masterarbeit an der Hochschule Osnabrück.
+### Die Entwicklung und Konstruktion, sowie die Herstellung des Prototyps erfolgte im Rahnen einer Masterarbeit an der Hochschule Osnabrück.
 
 Mit dieser Wickelmaschine können faserverstärkte Rohre z.B. (CFK o. GFK) hergestellt werden. Die Abmessungen der Rohre können nach individuellen Wünschen gestaltet werden und können u.a. für Sport und Campingequipment verwendet werden. Die Maschine arbeitet nach dem Tapelege- oder Tapewickelverfahren, bei dem unidirektional verstärkte Kunststofftapes um den Kern gewickelt und durch eine Wärmequelle mit den unteren Schichten verbunden werden.
 
