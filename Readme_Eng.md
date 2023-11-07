@@ -10,3 +10,6 @@ The winding machine can be produced using simple manufacturing methods. Most of 
 
 ![Prototyp](https://github.com/Simon0613/Wickelmaschine/assets/149043603/75609bbf-8b3a-4579-babd-0e09345021d3)
 
+![3RohreUnterschiedliche Teilung](https://github.com/Simon0613/Wickelmaschine/assets/149043603/0695b5f3-b014-4d96-87f7-c5cadf3900ae)
+![Nahaufnahme](https://github.com/Simon0613/Wickelmaschine/assets/149043603/d0f8f6c3-b2f1-44f2-934a-383700bfcd69)
+![Überblick Rohre](https://github.com/Simon0613/Wickelmaschine/assets/149043603/8951402a-078e-4b5f-addf-20b8ed0798c0)
