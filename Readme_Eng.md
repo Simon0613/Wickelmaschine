@@ -6,4 +6,4 @@ This winding machine can be used to produce fibre reinforced tubes. The dimensio
 
 ![Wickelmaschine](https://github.com/Simon0613/Wickelmaschine/assets/149043603/64db3af7-fdf9-4815-bbfb-d8eda0cfe631)
 
-The winding machine can be produced using simple manufacturing methods. Most of the components can be produced using an FDM 3D printer. 
+The winding machine can be produced using simple manufacturing methods. Most of the components can be produced using an FDM 3D printer. Standard parts such as bolts, screws, bearings, heat sink inserts and springs are used. The power unit includes stepper motors and other parts you can find in 3D printers, such as GT2 pulleys and belts, the Arduino uno and a CNC shield. 
