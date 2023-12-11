@@ -19,6 +19,8 @@ Die Dimensionen der Rohre können nach persönlichen Anforderungen gestalltet we
 ![Nahaufnahme](https://github.com/Simon0613/Winding-Machine/assets/149043603/f596b2fa-aa4a-4fbd-bd2a-50b659092b6b)
 ![Überblick Rohre](https://github.com/Simon0613/Winding-Machine/assets/149043603/d6790a5b-0d75-4a49-9b65-486a5ddf13c2)
 
+![LizenzOSH](https://github.com/Simon0613/Wickelmaschine/assets/149043603/33c6dd5d-a7cb-4ab0-9db5-cbd49b78156b)
+
 
 # Montageanleitung
 
