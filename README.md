@@ -65,6 +65,10 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 17. Der mechanische Teil der Wickelanlage ist jetzt fertig. Nun folgt der elektrische Teil.
 18. Das CNC-Shield auf den Arduino UNO stecken.
 19. Die Jumper auf die für die Treiber vorgesehenen Plätze gemäß der Anleitung des CNC-Shields auf 1/8 Schritte stecken.
+
+![JumperPositionierung](https://github.com/Simon0613/Wickelmaschine/assets/149043603/27e5ed69-fb7f-4f1d-800f-202c67c8d301)
+
+
 20. Die A4988 Schrittmotortreiber auf die X-, Y- und Z-Position aufstecken. Hier ist unbedingt auf die richtige Orientierung zu Achten.
 21. Danach werden die Schrittmotorkabel an den Motor sowie an das CNC-Shield angeschlossen.
 22. Den Arduino UNO mit Strom versorgen und das USB-B Kabel an einen Computer anschließen.
