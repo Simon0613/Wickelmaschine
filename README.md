@@ -86,7 +86,8 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 
 
 4. 
-![grafik](https://github.com/Simon0613/Winding-Machine/assets/149043603/f818d086-0682-4cda-938c-4176a4118f57)
+![CNC Steuerung](https://github.com/Simon0613/Wickelmaschine/assets/149043603/540466ba-cd1d-43c9-b502-5fd36ec3ddfc)
+
 
 Die Wicklung der Rohre erfolgt in folgender Reihenfolge. Grundsätzlich kann sich an die folgende Vorgehensweise gehalten werden:
 
