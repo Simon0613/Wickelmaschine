@@ -83,11 +83,11 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 # Estlcam
 1. Estlcam auf einem Computer installieren.
 2. Anschließend können folgende Einstellungen übernommen werden. Unter dem Menü Einstellungen müssen bei CNC-Steuerung, Grundeinstellungen und CNC Programme Einstellungen vorgenommen werden.
-3. 
+3. Grundeinstellungen und CNC Programme 
 ![GrundeinstellungenESTLCAM](https://github.com/Simon0613/Wickelmaschine/assets/149043603/ac3139a2-6aa2-48cc-b347-a0850fc545fe)
 
 
-4. 
+4. CNC Steuerung: Die abgebildeten Werte können einfach übernommen werden. Nachdem alle Werte eingetragen sind sollten diese auch gespeichert werden. Danach kann auf die Schaltfläche Steuerung programmieren geklickt werden.
 ![CNC Steuerung](https://github.com/Simon0613/Wickelmaschine/assets/149043603/540466ba-cd1d-43c9-b502-5fd36ec3ddfc)
 
 
