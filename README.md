@@ -63,6 +63,9 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 15. Der Heißluftföhn sowie die Baugruppe B09_Materialspeicher können jetzt auf der T028_Schwenkplatte montiert werden.
 16. Für die Montage der B10_Andrückrolle ist es empfehlenswert, dass Bauteil T033_Federung durch Lösen von vier Schrauben zu demontieren. Die B10_Andrückrolle auf der T028_Schwenkplatte zu montieren. Anschließend dann das Bauteil T033_Federung wieder anschrauben.
 17. Der mechanische Teil der Wickelanlage ist jetzt fertig. Nun folgt der elektrische Teil.
+
+## Elektronik und Steuerung
+
 18. Das CNC-Shield auf den Arduino UNO stecken.
 19. Die Jumper auf die für die Treiber vorgesehenen Plätze gemäß der Anleitung des CNC-Shields auf 1/8 Schritte stecken.
 
