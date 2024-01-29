@@ -79,7 +79,13 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 
 
 22. Den Arduino UNO mit Strom versorgen und das USB-B Kabel an einen Computer anschließen.
-23. Estlcam auf einem Computer installieren. Anschließend können folgende Einstellungen übernommen werden.
+
+# Estlcam
+1. Estlcam auf einem Computer installieren.
+2. Anschließend können folgende Einstellungen übernommen werden. Unter dem Menü Einstellungen müssen bei CNC-Steuerung, Grundeinstellungen und CNC Programme Einstellungen vorgenommen werden.
+
+
+4. 
 ![grafik](https://github.com/Simon0613/Winding-Machine/assets/149043603/f818d086-0682-4cda-938c-4176a4118f57)
 
 Die Wicklung der Rohre erfolgt in folgender Reihenfolge. Grundsätzlich kann sich an die folgende Vorgehensweise gehalten werden:
