@@ -92,6 +92,15 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 4. CNC Steuerung: Die abgebildeten Werte können einfach übernommen werden. Nachdem alle Werte eingetragen sind sollten diese auch gespeichert werden. Danach kann auf die Schaltfläche Steuerung programmieren geklickt werden.
 ![CNC Steuerung](https://github.com/Simon0613/Wickelmaschine/assets/149043603/540466ba-cd1d-43c9-b502-5fd36ec3ddfc)
 
+# Programmabfolge eingeben
+
+1. Die Programmierung der Rohrewicklungen erfolgt über die G-Codes, ähnlich zu einer CNC-Steuerung. Hier muss nur etwas umgedacht werden:
+
+Der Winkel der gewickelt werden soll ergibt sich aus der Bewegung in X-Richtung und der Anzahl der Umdrehungen des Kerns
+
+X-Achse: Die X-Achse entspricht der Länge des Rohres. Dementsprechend wird für ein 100 mm  langes Rohr die Eingabe 100 getätigt.
+Z-Achse: Die Z-Achse gibt die Anzahl der Drehungen eines Rohrs vor. Der Kern führt eine Umdrehung(360°) bei einer Eingabe von 100 aus.
+Y-Achse: Die Y-Achse passt sich an der Wickelwinkel an. 
 
 Die Wicklung der Rohre erfolgt in folgender Reihenfolge. Grundsätzlich kann sich an die folgende Vorgehensweise gehalten werden:
 
