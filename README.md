@@ -92,7 +92,7 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 4. CNC Steuerung: Die abgebildeten Werte können einfach übernommen werden. Nachdem alle Werte eingetragen sind sollten diese auch gespeichert werden. Danach kann auf die Schaltfläche Steuerung programmieren geklickt werden.
 ![CNC Steuerung](https://github.com/Simon0613/Wickelmaschine/assets/149043603/540466ba-cd1d-43c9-b502-5fd36ec3ddfc)
 
-# Programmabfolge eingeben
+## Programmabfolge eingeben
 
 1. Die Programmierung der Rohrewicklungen erfolgt über die G-Codes, ähnlich zu einer CNC-Steuerung. Hier muss nur etwas umgedacht werden:
 
@@ -107,6 +107,10 @@ Achtung! Der Wickelwinkel wird immer von dem Kern gemessen! Das bedeutet wird da
 
 Der maximale Wickelwinkel beträgt 45°. Eingaben der Y-Achse die größer 4,5 sind führen zu einer Kollision.
 
+Grundsätzlich gibt es zwei Arten von Wicklungen einmal Kreuzwickeln und Umfangswickeln
+
+Umfangswickeln: Hier wird während einer Schicht das Tape direkt an das nächste gelegt. Somit wird eine Schicht bei einer Verfahrbewegung fertig.
+Diese Art eignet sich besonders wenn Rohre benötigt werden die mit einem Druck von Innen stehen. Beispielhaft wie ein Schlauch oder Tank.
 
 Als Beispiel wird dies an einem Rohr mit einer Länge von 100 mm gezeigt.
 
