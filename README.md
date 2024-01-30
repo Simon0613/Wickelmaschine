@@ -100,7 +100,7 @@ Der Winkel der gewickelt werden soll ergibt sich aus der Bewegung in X-Richtung 
 
 X-Achse: Die X-Achse entspricht der Länge des Rohres. Dementsprechend wird für ein 100 mm  langes Rohr die Eingabe 100 getätigt.
 Z-Achse: Die Z-Achse gibt die Anzahl der Drehungen eines Rohrs vor. Der Kern führt eine Umdrehung(360°) bei einer Eingabe von 100 aus.
-Y-Achse: Die Y-Achse passt sich an der Wickelwinkel an. 
+Y-Achse: Die Y-Achse passt sich an der Wickelwinkel an. Bei einem Winkel von 45° wird die Y-Achse auf den Wert 4,5 eingestellt.
 
 Die Wicklung der Rohre erfolgt in folgender Reihenfolge. Grundsätzlich kann sich an die folgende Vorgehensweise gehalten werden:
 
