@@ -99,8 +99,24 @@ T09_Lagerungrechts eingeführt worden ist. Die Spannung der T010_Motorbefestigun
 Der Winkel der gewickelt werden soll ergibt sich aus der Bewegung in X-Richtung und der Anzahl der Umdrehungen des Kerns
 
 X-Achse: Die X-Achse entspricht der Länge des Rohres. Dementsprechend wird für ein 100 mm  langes Rohr die Eingabe 100 getätigt.
+
 Z-Achse: Die Z-Achse gibt die Anzahl der Drehungen eines Rohrs vor. Der Kern führt eine Umdrehung(360°) bei einer Eingabe von 100 aus.
+
 Y-Achse: Die Y-Achse passt sich an der Wickelwinkel an. Bei einem Winkel von 45° wird die Y-Achse auf den Wert 4,5 eingestellt.
+Achtung! Der Wickelwinkel wird immer von dem Kern gemessen! Das bedeutet wird das Tape gerade um den Kern gewickelt beträgt der Wickelwinkel 90°. Bei der Eingabe muss aber 0 eingegeben werden. Ähnlich bei einem Wickelwinkel von 80° Die Eingabe beträgt hier 1 Bei 70°->2, 60°->3, 50°->4, 45°->4,5
+
+Der maximale Wickelwinkel beträgt 45°. Eingaben der Y-Achse die größer 4,5 sind führen zu einer Kollision.
+
+
+Als Beispiel wird dies an einem Rohr mit einer Länge von 100 mm gezeigt.
+
+![Erstellung Programmabfolge](https://github.com/Simon0613/Wickelmaschine/assets/149043603/197f68c8-045f-4dd2-afaa-f5da4c637761)
+
+
+
+Die Programme können einfach im Text Editor erstellt werden. Bei Fertigstellung des Programms wird der Dateityp von .txt in . nc geändert. Danach kann ESTLCAM das Programm einlesen.
+
+
 
 Die Wicklung der Rohre erfolgt in folgender Reihenfolge. Grundsätzlich kann sich an die folgende Vorgehensweise gehalten werden:
 
