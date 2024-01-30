@@ -110,7 +110,8 @@ Der maximale Wickelwinkel beträgt 45°. Eingaben der Y-Achse die größer 4,5 s
 
 Als Beispiel wird dies an einem Rohr mit einer Länge von 100 mm gezeigt.
 
-![Erstellung Programmabfolge](https://github.com/Simon0613/Wickelmaschine/assets/149043603/197f68c8-045f-4dd2-afaa-f5da4c637761)
+![Erstellung Programmabfolge](https://github.com/Simon0613/Wickelmaschine/assets/149043603/bcc05810-a692-461a-8726-b8f885b5d9a4)
+
 
 
 
