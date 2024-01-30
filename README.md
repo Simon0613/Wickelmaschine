@@ -112,11 +112,13 @@ Grundsätzlich gibt es zwei Arten von Wicklungen einmal Kreuzwickeln und Umfangs
 Umfangswickeln: Hier wird während einer Schicht das Tape direkt an das nächste gelegt. Somit wird eine Schicht bei einer Verfahrbewegung fertig.
 Diese Art eignet sich besonders wenn Rohre benötigt werden die mit einem Druck von Innen stehen. Beispielhaft wie ein Schlauch oder Tank.
 
-Als Beispiel wird dies an einem Rohr mit einer Länge von 100 mm gezeigt.
+Kreuzwickeln: Diese Wicklungsart ist ein wenig aufwändiger, hat aber dafür vielfältigere Einsatzmöglichkeiten. Diese Rohre eignen sich hervorragend für torsionsbelastete Rohre wie beispielweise Antriebswellen.
+Hierbei wird eine Schicht erst durch mehrmaliges hin und zurückfahren fertiggestellt. Die Wicklungen werden dabei kreuzweise übereinandergelegt.
+
+
+Als Beispiel wird dies an einem Rohr mit einer Länge von 100 mm gezeigt das nach dem Umfangswickelprinzip gewickelt wird.
 
 ![Erstellung Programmabfolge](https://github.com/Simon0613/Wickelmaschine/assets/149043603/bcc05810-a692-461a-8726-b8f885b5d9a4)
-
-
 
 
 Die Programme können einfach im Text Editor erstellt werden. Bei Fertigstellung des Programms wird der Dateityp von .txt in . nc geändert. Danach kann ESTLCAM das Programm einlesen.
