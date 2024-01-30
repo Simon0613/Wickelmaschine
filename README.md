@@ -115,8 +115,13 @@ Diese Art eignet sich besonders wenn Rohre benötigt werden die mit einem Druck 
 Kreuzwickeln: Diese Wicklungsart ist ein wenig aufwändiger, hat aber dafür vielfältigere Einsatzmöglichkeiten. Diese Rohre eignen sich hervorragend für torsionsbelastete Rohre wie beispielweise Antriebswellen.
 Hierbei wird eine Schicht erst durch mehrmaliges hin und zurückfahren fertiggestellt. Die Wicklungen werden dabei kreuzweise übereinandergelegt.
 
+Vor Beginn muss überlegt werden wie viele Umwicklungen man auf einer Rohrlänge haben möchte. Dazu wird der Ausßenradius des Kerns benötigt. Anschließend kann mit folgenden Formel der Wickelwinkel ausgerechnet werden:
+
+![FormelnWickelwinkel](https://github.com/Simon0613/Wickelmaschine/assets/149043603/9faa54f3-4d77-44b2-ab06-5c0b2470c786)
+
 
 Als Beispiel wird dies an einem Rohr mit einer Länge von 100 mm gezeigt das nach dem Umfangswickelprinzip gewickelt wird.
+
 
 ![Erstellung Programmabfolge](https://github.com/Simon0613/Wickelmaschine/assets/149043603/bcc05810-a692-461a-8726-b8f885b5d9a4)
 
